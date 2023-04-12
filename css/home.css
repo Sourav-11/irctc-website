@@ -229,7 +229,7 @@
         /* for services at stations  */
         #grad3 {
             /* height: 200px; */
-            background-color: red;
+            background-color: grey;
             /* For browsers that do not support gradients */
             background-image: linear-gradient(rgb(116, 117, 117), rgb(117, 117, 122), rgb(85, 85, 87), rgb(47, 48, 48), rgb(8, 8, 8));
             /* Standard syntax (must be last) */
